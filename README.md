@@ -1,7 +1,9 @@
 # Important note
 
 Bucket's documentation was moved here from the previous location after some discussion with the #xkcd ops in August of 2025, because of technical problems with the old location.
+
 However, it was moved as-is and CO2 found several pieces of documentation to be _outdated_.
+
 We could use your help updating this documentation. You don't need to be knowledgeable about Github - if you're not sure where to start just talk to CO2 on IRC.
 
 [You can find a list of unfinished tasks here.](https://github.com/CO2-Codes/xkcd-bucket-docs/blob/main/META.md#todo)
