@@ -31,9 +31,9 @@ Because the documentation has been untouched for so long, it is quite outdated i
 
 The following tasks should ideally be done, in order of priority:
 
-- [ ] Review CO2's conversion from mediawiki format into markdown format for glaring errors. (By comparing it to the [old wiki page](https://github.com/zigdon/xkcd-Bucket/wiki/Using-the-%23xkcd-bucket)).
-- [ ] Update the links in the main Bucket factoids "newbie pack" and "docs" to link here (can be done by channel ops).
-- [ ] Replace the documentation page in the legacy wiki in zigdon's repo with a link to this repo (can be done by anyone with a GH account).
+- [ ] Review CO2's conversion from mediawiki format into markdown format for glaring errors. (By comparing it to the [old wiki page]([https://github.com/zigdon/xkcd-Bucket/wiki/Using-the-%23xkcd-bucket](https://github.com/zigdon/xkcd-Bucket/wiki/Using-the-%23xkcd-bucket/56e023e11fd9821e9aefde912783f6caed528cae), you may have to retry several times for it to load).
+- [X] Update the links in the main Bucket factoids "newbie pack" and "docs" to link here (can be done by channel ops).
+- [X] Replace the documentation page in the legacy wiki in zigdon's repo with a link to this repo (can be done by anyone with a GH account).
 - [ ] Clean up the very old broken links in the documentation (marked by CO2 with a todo).
 - [ ] Check for any cases where the documentation has become inaccurate due to changes in Bucket's settings etc and fix those.
 
