@@ -1,3 +1,17 @@
+# Important note
+
+Bucket's documentation was moved here from the previous location after some discussion with the #xkcd ops in August of 2025, because of technical problems with the old location.
+However, it was moved as-is and CO2 found several pieces of documentation to be _outdated_.
+We could use your help updating this documentation. You don't need to be knowledgeable about Github - if you're not sure where to start just talk to CO2 on IRC.
+
+[You can find a list of unfinished tasks here.](https://github.com/CO2-Codes/xkcd-bucket-docs/blob/main/META.md#todo)
+
+----
+
+----
+
+----
+
 Bucket has an outer shell of metal;<sup>[_citation needed_]</sup> within the metal is a protective layer of high density plastic,<sup>[_citation needed_]</sup> in which may or may not reside pure HOH.<sup>[_citation needed_]</sup> There<sup>[_citation needed_]</sup> can only be speculation about what else the Bucket contains.<sup>[''citation needed'']</sup>
 
 # Using the #XKCD Bucket
